@@ -77,7 +77,7 @@ for j=2:m      //binomial tree for the Newton's Divided Differences
   end;
 end;
 
-disp([X Y]);  //displays thebinomial tree for the Newton's Divided Differences
+disp([X Y]);  //displays the binomial tree for the Newton's Divided Differences
   
 newton(x)     //displays the Newton Divided Differences Interpolating Polynomial
 
