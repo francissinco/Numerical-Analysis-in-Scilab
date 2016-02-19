@@ -1,6 +1,9 @@
 //Francis Brylle G. Sinco
 //MS Applied Mathematics
-//Math 271.1 - Program 2 - 15 July 2010
+//Math 271.1
+//University of the Philippines - Diliman
+//15 July 2010
+
 
 
 //This program implements the Newton Divided Differences Interpolation to a function, defined and continuous on a closed interval [a,b]
