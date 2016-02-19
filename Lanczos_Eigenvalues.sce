@@ -1,4 +1,4 @@
-//Francis Brylle G. Sinco 2005-06538
+//Francis Brylle G. Sinco
 //MS Applied Mathematics
 //Math 271.1
 //University of the Philippines - Diliman
