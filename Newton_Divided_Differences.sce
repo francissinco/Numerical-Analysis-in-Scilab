@@ -44,6 +44,7 @@ endfunction;
 
 
 
+
 //interpolation error
 function e = err(x)
   e = abs(f(x) - newton(x));
