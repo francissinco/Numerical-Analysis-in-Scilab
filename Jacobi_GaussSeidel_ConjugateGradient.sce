@@ -1,6 +1,8 @@
 //Francis Brylle G. Sinco
 //MS Applied Mathematics
-//Math 271.1 - Program 4 - 16 September 2010
+//Math 271.1
+//University of the Philippines - Diliman
+//16 September 2010
 
 
 //This program implements the Jacobi, Gauss-Seidel, and Conjugate Gradient methods for finding the solution of a large system Ax=b, where A is a symmetric positive-definite matrix
